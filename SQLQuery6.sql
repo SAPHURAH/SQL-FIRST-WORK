@@ -16,3 +16,4 @@ INSERT INTO RubbyLook VALUES
 (2006,'Ampesi'),
 (2008,'Jollof'),
 (2004,'Rice')
+(2005, 'Palaver Sauce')
